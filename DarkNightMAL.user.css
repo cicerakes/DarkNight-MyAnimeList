@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name			Dark/Night MyAnimeList
 @namespace		cicerakes
-@version		1.0.0
+@version		1.0.1
 @description	A dark/night theme for myanimelist.net.
 @author			cicerakes
 @license		CC-BY-SA-4.0
@@ -46,8 +46,8 @@
 	"Disabled": "background-color:#2e2e2e!important;border-bottom-color:#5e5e5e!important"
 }
 @var select		cSb		"Custom Scrollbar" {
-	"on:Enabled": "::-webkit-scrollbar {background-color: /*[[sbBgCol]]*\/;width: 15px;}::-webkit-scrollbar-thumb {background-color: /*[[sbBCol]]*\/;}::-webkit-scrollbar-thumb:hover {background-color: /*[[sbBHCol]]*\/;}",
-	"off:Disabled": ""
+	"Enabled": "::-webkit-scrollbar{background-color:/*[[sbBgCol]]*\/;width: 15px}::-webkit-scrollbar-thumb{background-color:/*[[sbBCol]]*\/}::-webkit-scrollbar-thumb:hover{background-color:/*[[sbBHCol]]*\/}textarea::-webkit-scrollbar:vertical{border-left:1px solid #3e3e3e}textarea::-webkit-scrollbar-thumb:vertical{border-left:1px solid #3e3e3e}textarea::-webkit-scrollbar:horizontal{border-top:1px solid #3e3e3e}textarea::-webkit-scrollbar-thumb:horizontal{border-top:1px solid #3e3e3e}::-webkit-scrollbar-corner{background-color:/*[[sbBgCol]]*\/}",
+	"Disabled": ""
 }
 @var color		sbBgCol	"Scrollbar Background Colour" #262626
 @var color		sbBCol	"Scrollbar Bar Colour" rgba(86,86,86,0.4)
