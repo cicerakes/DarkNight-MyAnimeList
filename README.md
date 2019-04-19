@@ -4,7 +4,8 @@
 A dark/night theme for [myanimelist.net](https://myanimelist.net/).  
 Includes options to hide elements, including ads :wink:
 
-This will only affect users' anime/manga lists if you enable the override.
+This will only affect users' anime/manga lists if you enable the override. 
+The override forces users' lists to use the default Dark Blue theme found on MAL.
 
 Userstyle version [here](https://userstyles.org/styles/120493/dark-night-myanimelist).
 
