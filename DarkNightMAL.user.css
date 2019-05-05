@@ -3184,8 +3184,7 @@
 		background-color: #1e1e1e !important;
 		color: #cecece !important;
 	}
-
-	.text b[data-v-4e7046d6] {
+	.modal-container .text b {
 		border-bottom-color: #5e5e5e;
 	}
 
