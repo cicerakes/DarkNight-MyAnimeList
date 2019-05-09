@@ -414,7 +414,7 @@
 	/* > List nav */
 
 	.page-common .header-list-button {
-		color: #3d5dad;
+		color: #3d5dad !important;
 	}
 
 	.page-common .header-list.on .header-list-button {
@@ -450,7 +450,7 @@
 	/* > Notifications */
 
 	.page-common .header-notification-button {
-		color: #3d5dad;
+		color: #3d5dad !important;
 	}
 
 	.page-common .header-notification-dropdown .arrow_box {
