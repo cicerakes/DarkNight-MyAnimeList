@@ -60,6 +60,10 @@
 		background-color: #1e1e1e !important;
 	}
 
+	body:not(.ownlist), body:not(.ownlist):before {
+		background: #1e1e1e !important;
+	}
+
 	/*[[cSb]]*/
 
 	/*[[bBF]]*/
@@ -349,6 +353,13 @@
 
 	.index-watch-description .btn-watch-video {
 		color: #fff !important;
+	}
+
+	#myanimelist::before {
+		content: none;
+	}
+	.ad-tag {
+		margin-bottom: -18px;
 	}
 
 	/* Top-right navigation */
