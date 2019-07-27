@@ -8,7 +8,12 @@ Includes options to hide elements, including ads :wink:
 This will only affect users' anime/manga lists if you enable the override. 
 The override forces users' lists to use the default Dark Blue theme found on MAL.
 
-Userstyle version [here](https://userstyles.org/styles/120493/dark-night-myanimelist).
+## Installation
+Install the [Stylus extension](https://add0n.com/stylus.html) to install the UserCSS below.
+
+* [Install the UserCSS here.](https://raw.githubusercontent.com/cicerakes/DarkNight-MyAnimeList/master/DarkNightMAL.user.css)
+* A Userstyle version can also be found [here](https://userstyles.org/styles/120493/dark-night-myanimelist).  
+Note that this version is outdated and not as frequently updated.
 
 ## Preview
 ### Home page (Logged in)
