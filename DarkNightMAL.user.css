@@ -3458,8 +3458,14 @@
 	}
 
 	.modal-container {
-		background-color: #1e1e1e;
-		color: #cecece;
+		background-color: #1e1e1e !important;
+		color: #cecece !important;
+	}
+	#gdpr-modal-bottom {
+		background-color: #262626;
+	}
+	.modal-wrapper {
+		border-color: #121c30 !important;
 	}
 
 	/*[[oUL]]*/
