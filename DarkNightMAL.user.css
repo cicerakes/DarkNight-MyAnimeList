@@ -3195,8 +3195,11 @@
 		background-color: #1e1e1e !important;
 		color: #cecece !important;
 	}
-	.modal-container .text b {
-		border-bottom-color: #5e5e5e;
+	#gdpr-modal-bottom {
+		background-color: #262626;
+	}
+	.modal-wrapper {
+		border-color: #121c30 !important;
 	}
 
 	/* The following section of code was done by another user, with minor changes by me. */
