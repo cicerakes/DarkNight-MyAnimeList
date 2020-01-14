@@ -3392,9 +3392,9 @@
 		border: #262626 1px solid;
 	}
 	/*End of section*/
-	}
+}
 
-	@-moz-document url-prefix("https://myanimelist.net/ownlist/style/theme"){
+@-moz-document url-prefix("https://myanimelist.net/ownlist/style/theme"){
 	.ownlist_style_theme .customize-content-left {
 		background-color: #1e1e1e;
 		color: #cecece;
@@ -3446,9 +3446,9 @@
 		background-color: #500E0E;
 		border-color: #ba4b4d;
 	}
-	}
+}
 
-	@-moz-document url-prefix("https://myanimelist.net/animelist"), url-prefix("https://myanimelist.net/mangalist"){
+@-moz-document url-prefix("https://myanimelist.net/animelist"), url-prefix("https://myanimelist.net/mangalist"){
 	#fancybox-outer {
 		background: #1e1e1e !important;
 	}
