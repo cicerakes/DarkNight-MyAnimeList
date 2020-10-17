@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name			Dark/Night MyAnimeList
 @namespace		cicerakes
-@version		1.0.5
+@version		1.0.6
 @description	A dark/night theme for myanimelist.net.
 @author			cicerakes
 @license		CC-BY-SA-4.0
@@ -280,6 +280,7 @@
 
 	.ranking-digest .ranking-header {
 		background-color: #2e2e2e;
+		border-bottom-color: #464646;
 	}
 
 	.ranking-digest.left {
