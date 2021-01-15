@@ -1197,6 +1197,10 @@
 		border-color: #3e3e3e;
 	}
 
+	.page-common .border_solid {
+		border-color: #6e6e6e;
+	}
+
 	/* > Manga Store */
 
 	a.left-info-block-manga-store-button {
