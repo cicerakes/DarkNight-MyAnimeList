@@ -2280,7 +2280,7 @@
 
 	.page-common .pagination .link:hover, .page-common .pagination .link.current {
 		background-color: #3d5dad;
-		color: #fff;
+		color: #fff !important;
 	}
 
 	.page-common .pagination .link {
