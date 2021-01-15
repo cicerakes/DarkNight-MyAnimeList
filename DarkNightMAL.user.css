@@ -419,6 +419,7 @@
 	}
 
 	.page-common .header-profile .header-profile-dropdown {
+		background-color: #1e1e1e;
 		border-color: #3d5dad;
 		box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.4);
 	}
