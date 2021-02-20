@@ -363,6 +363,10 @@
 		margin-bottom: -18px;
 	}
 
+	.icon-about-recommendations {
+		color: #5378cb;
+	}
+
 	/* Top-right navigation */
 
 	.page-common #header-menu>.border:before {
