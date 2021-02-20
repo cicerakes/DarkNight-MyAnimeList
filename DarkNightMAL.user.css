@@ -488,16 +488,15 @@
 	}
 
 	.page-common .header-notification-view-all a {
-		background-color: #2e2e2e !important;
-		border-color: #3d5dad !important;
+		background-color: #121C30;
+		border-color: #3d5dad;
 	}
 
 	.page-common .header-notification-view-all a:hover {
-		background-color: #3a3a3a !important;
+		background-color: #192743;
 	}
 
 	.page-common .header-notification-dropdown-inner h3 {
-		color: #5378cb;
 		border-color: #3d5dad;
 	}
 
@@ -540,6 +539,10 @@
 
 	.page-common .header-notification-dropdown-inner h3 .mark-all.disabled {
 		color: #cecece;
+	}
+
+	.page-common .header-notification-dropdown-inner h3 .mark-all {
+		color: #5378cb;
 	}
 
 	/* > Messages button */
