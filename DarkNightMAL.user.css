@@ -782,6 +782,10 @@
 		color: #fff !important;
 	}
 
+	.page-rwd.page-history #contentWrapper {
+		color: #cecece;
+	}
+
 	/* > Stats Bars */
 
 	.profile .user-statistics .stats-graph {
