@@ -831,10 +831,6 @@
 		border-color: #3e3e3e !important;
 	}
 
-	.user-profile .user-compatability-graph .bar-outer .bar-outer-positive .bar-inner {
-		background-color: #ffaa55 !important;
-	}
-
 	.user-profile .user-compatability-graph .bar-outer .bar-outer-positive {
 		background-color: rgba(255, 170, 85, 0.2) !important;
 		border-left-color: #3e3e3e !important;
