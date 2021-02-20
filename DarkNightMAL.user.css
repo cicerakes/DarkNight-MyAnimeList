@@ -900,6 +900,10 @@
 		border-color: #3e3e3e;
 	}
 
+	.top-ranking-table .title .button-preview {
+		color: #fff !important;
+	}
+
 	.icon-top-ranking-page .prev, .icon-top-ranking-page .next {
 		background-color: #3d5dad;
 		color: #fff !important;
