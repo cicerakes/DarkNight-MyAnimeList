@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name			Dark/Night MyAnimeList
 @namespace		cicerakes
-@version		1.0.8
+@version		1.0.9
 @description	A dark/night theme for myanimelist.net.
 @author			cicerakes
 @license		CC-BY-SA-4.0
@@ -869,6 +869,11 @@
 
 	span[style=" color: #FF0000;"] {
 		color: #d84a4c !important;
+	}
+
+	/* Blogs */
+	.page-rwd.page-blog-detail #content {
+		color: #cecece;
 	}
 
 	/* Edit Anime/Manga History */
