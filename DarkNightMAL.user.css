@@ -26,7 +26,7 @@
 	"Shown": ""
 }
 @var select		aEVids	"Anime page Episode Videos section" {
-	"Hidden": "td[valign=\"top\"] > br + h2[style=\"margin-top: 15px;\"],td[valign=\"top\"] > i + h2[style=\"margin-top: 15px;\"]:last-of-type{display:none}h2 + #episode_video{display:none}",
+	"Hidden": "td[valign=\"top\"] > br + div[style=\"margin-top: 15px;\"],#episode_video{display:none}",
 	"Shown": ""
 }
 @var select		wIcon	"Watch episode/PV icons" {
