@@ -1223,6 +1223,10 @@
 		color: #fff !important;
 	}
 
+	.anime-detail-header-stats .stats-block .information {
+		color: #cecece;
+	}
+
 	/* > Manga Store */
 
 	a.left-info-block-manga-store-button {
