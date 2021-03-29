@@ -1227,6 +1227,26 @@
 		color: #cecece;
 	}
 
+	.manga-store-preview {
+		border-color: #3e3e3e;
+	}
+
+	.manga-store-preview-info .manga-store-preview-info-header {
+		color: #cecece;
+	}
+
+	.manga-store-preview .title {
+		color: #5378cb !important;
+	}
+
+	.button[data-v-6ae44976] {
+		color: #fff !important;
+	}
+
+	.button[data-v-6ae44976]:hover {
+		color: #fff !important;
+	}
+
 	/* > Manga Store */
 
 	a.left-info-block-manga-store-button {
