@@ -1219,9 +1219,17 @@
 		border-color: #6e6e6e;
 	}
 
+	.anime-detail-header-stats .btn-affiliate.manga-store {
+		color: #fff !important;
+	}
+
 	/* > Manga Store */
 
 	a.left-info-block-manga-store-button {
+		color: #fff !important;
+	}
+
+	a.left-info-block-manga-store-button:hover {
 		color: #fff !important;
 	}
 
