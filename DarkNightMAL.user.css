@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name			Dark/Night MyAnimeList
 @namespace		cicerakes
-@version		1.0.11
+@version		1.0.12
 @description	A dark/night theme for myanimelist.net.
 @author			cicerakes
 @license		CC-BY-SA-4.0
@@ -561,54 +561,54 @@
 
 	/* Search Bar */
 
-	.page-common .incrementalSearchResultList {
+	.page-common .incrementalSearchResultList, .page-rwd .incrementalSearchResultListPc {
 		background-color: #1e1e1e;
 		border-color: #3e3e3e;
 	}
 
-	.page-common .incrementalSearchResultList .list {
+	.page-common .incrementalSearchResultList .list, .page-rwd .incrementalSearchResultListPc .list {
 		background-color: #1e1e1e;
 		border-color: #3e3e3e;
 	}
 
-	.page-common .incrementalSearchResultList .list.focus {
+	.page-common .incrementalSearchResultList .list.focus, .page-rwd .incrementalSearchResultListPc .list.focus {
 		background-color: #262626;
 	}
 
-	.page-common .incrementalSearchResultList .list.list-bottom {
+	.page-common .incrementalSearchResultList .list.list-bottom, .page-rwd .incrementalSearchResultListPc .list.list-bottom {
 		background-color: #3d5dad;
 	}
 
-	.page-common .incrementalSearchResultList .list.list-bottom a {
+	.page-common .incrementalSearchResultList .list.list-bottom a, .page-rwd .incrementalSearchResultListPc .list.list-bottom a {
 		color: #fff !important;
 	}
 
-	.page-common .incrementalSearchResultList .list.list-bottom.focus {
+	.page-common .incrementalSearchResultList .list.list-bottom.focus, .page-rwd .incrementalSearchResultListPc .list.list-bottom.focus {
 		background-color: #2e2e2e;
 		color: #5378cb !important;
 	}
 
-	.page-common .incrementalSearchResultList .list .image {
+	.page-common .incrementalSearchResultList .list .image, .page-rwd .incrementalSearchResultListPc .list .image {
 		border-color: #3e3e3e;
 	}
 
-	.page-common .incrementalSearchResultList .list .on .info .extra-info, .page-common .incrementalSearchResultList .list .on .info .media-type {
+	.page-common .incrementalSearchResultList .list .on .info .extra-info, .page-common .incrementalSearchResultList .list .on .info .media-type, .page-rwd .incrementalSearchResultListPc .list .on .info .media-type, .page-rwd .incrementalSearchResultListPc .list .on .info .extra-info {
 		color: #888;
 	}
 
-	.page-common #searchBar.searchBar #topSearchButon {
+	.page-common #searchBar.searchBar #topSearchButon, .page-rwd #searchBarPc.searchBar #topSearchButon {
 		background-color: #262626 !important;
 		color: #3d5dad !important;
 		border-color: #262626 !important;
 	}
 
-	.page-common #searchBar.searchBar #topSearchButon.notActive {
+	.page-common #searchBar.searchBar #topSearchButon.notActive, .page-rwd #searchBarPc.searchBar #topSearchButon.notActive {
 		background-color: #262626 !important;
 		border-left-color: #262626 !important;
 		color: #4e4e4e !important;
 	}
 
-	.page-common #searchBar.searchBar #topSearchValue {
+	.page-common #searchBar.searchBar #topSearchValue, .page-rwd #searchBarPc.searchBar #topSearchValuePc {
 		background-color: #262626 !important;
 		border-color: #262626 !important;
 	}
@@ -617,7 +617,7 @@
 		border-color: #3d5dad;
 	}
 
-	.page-common .incrementalSearchResultList .list.separator {
+	.page-common .incrementalSearchResultList .list.separator, .page-rwd .incrementalSearchResultListPc .list.separator {
 		background-color: #3e3e3e;
 		color: #cecece;
 	}
@@ -626,7 +626,11 @@
 		color: #5378cb;
 	}
 
-	.page-common .incrementalSearchResultList .list .on .info.anime .name, .page-common .incrementalSearchResultList .list .on .info.manga .name, .page-common .incrementalSearchResultList .list .on .info .name {
+	.page-rwd .incrementalSearchResultListPc .list .off .info.anime .name, .page-rwd .incrementalSearchResultListPc .list .off .info.manga .name, .page-rwd .incrementalSearchResultListPc .list .off .info.news .name, .page-rwd .incrementalSearchResultListPc .list .off .info.featured .name, .page-rwd .incrementalSearchResultListPc .list .off .info.forum .name {
+		color: #5378cb;
+	}
+
+	.page-common .incrementalSearchResultList .list .on .info.anime .name, .page-common .incrementalSearchResultList .list .on .info.manga .name, .page-common .incrementalSearchResultList .list .on .info .name, .page-common .incrementalSearchResultListPc .list .on .info.anime .name, .page-common .incrementalSearchResultListPc .list .on .info.manga .name, .page-common .incrementalSearchResultListPc .list .on .info .name {
 		color: #5378cb;
 	}
 
