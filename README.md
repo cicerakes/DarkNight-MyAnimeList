@@ -5,8 +5,9 @@
 A dark/night theme for [myanimelist.net](https://myanimelist.net/).  
 Includes options to hide elements, including ads :wink:
 
-This will only affect users' anime/manga lists if you enable the override. 
-The override forces users' lists to use the default Dark Blue theme found on MAL.
+This will only affect users' anime/manga lists if you enable the override.  
+The override applies the default `Dark Blue` theme found on MAL to users' lists.  
+As no modifications have been made to the `Dark Blue` theme, it is possible for some users' lists to appear broken if they have certain customisations, when using this override.
 
 ## Installation
 Install the [Stylus extension](https://add0n.com/stylus.html) to install the UserCSS below.
