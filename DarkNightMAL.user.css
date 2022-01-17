@@ -793,6 +793,10 @@
 		color: #cecece;
 	}
 
+	.fav-slide-block .fav-slide .btn-fav .link .image {
+		border-color: #2d2d2d;
+	}
+
 	/* > Stats Bars */
 
 	.profile .user-statistics .stats-graph {
