@@ -27,3 +27,27 @@ Note that this version is outdated and not as frequently updated.
 
 ### Anime/Manga Page (Stat bar + video option set to "Shown")
 ![](https://raw.githubusercontent.com/cicerakes/DarkNight-MyAnimeList/master/images/screenshots/animanga_statbar.png)
+
+## Contributing
+### Colour Scheme
+Start with text as `#cecece` and main background as `#1e1e1e`.
+
+The table below has suggestions, which may be ignored in some cases such as due to contrast/visibility issues.
+
+| Original | Dark Theme | Type |
+|---|---|---|
+| #ffffff | #1e1e1e | Background |
+| #f9f9f9 | #242424 | Background |
+| #f7f7f7 | #262626 | Background |
+| #f6f6f6 | #272727 | Background |
+| #efefef | #2e2e2e | Background |
+| #ebebeb | #3e3e3e | Border |
+| #e1e7f5 | #121c30 | Background |
+| #d8d8d8 | #3e3e3e | Border |
+| #bebebe | #5e5e5e | Border |
+| #585858 | #9e9e9e | Text |
+| #4f74c8 | #2d467f | Background |
+| #2e51a2 | #3d5dad | Background |
+| #1d439b | #3d5dad | Border |
+| #1d439b | #5378cb | Text |
+| #000000 | #cecece | Text |
