@@ -797,6 +797,16 @@
 		border-color: #2d2d2d;
 	}
 
+	/* > All favorites */
+
+	.head-config {
+		background-color: #272727;
+	}
+
+	.profile .boxlist-container .boxlist {
+		background-color: #272727;
+	}
+
 	/* > Stats Bars */
 
 	.profile .user-statistics .stats-graph {
