@@ -1088,6 +1088,25 @@
 		color: #cecece;
 	}
 
+	/* View People */
+	.people-character, .people-staff, .people-manga {
+		background-color: #1e1e1e;
+		border-color: #3e3e3e;
+	}
+
+	.people-character .people-character-sort-order-block, .people-staff .people-staff-sort-order-block, .people-manga .people-manga-sort-order-block {
+		background-color: #1e1e1e;
+		border-color: #3e3e3e;
+	}
+
+	.people-character .people-character-sort-order-block .sort-order-list .btn-sort-order, .people-staff .people-staff-sort-order-block .sort-order-list .btn-sort-order, .people-manga .people-manga-sort-order-block .sort-order-list .btn-sort-order {
+		color: #cecece;
+	}
+
+	.people-character .people-character-sort-order-block .sort-order-list .btn-sort-order.circle.selected:after, .people-staff .people-staff-sort-order-block .sort-order-list .btn-sort-order.circle.selected:after, .people-manga .people-manga-sort-order-block .sort-order-list .btn-sort-order.circle.selected:after {
+		background-image: url(data:image/png;base64,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);
+	}
+
 	/* View Anime/Manga */
 
 	.page-common .bgColor2 {
