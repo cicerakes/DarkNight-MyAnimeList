@@ -690,6 +690,16 @@
 		border-color: #3d5dad;
 	}
 
+	/* > Search filters */
+
+	.anime-search-filter .category-type {
+		background-color: #252525;
+	}
+
+	.anime-search-filter .category-wrapper {
+		border-color: #272727;
+	}
+
 	/* Anime/Manga Search (Results) */
 
 	.view-style .btn-view-style {
