@@ -11,7 +11,7 @@ As no modifications have been made to the `Dark Blue` theme, it is possible for 
 
 ## Installation
 1. Install the [Stylus extension](https://add0n.com/stylus.html) if you haven't already.
-2. [Install the UserCSS found here.](https://raw.githubusercontent.com/cicerakes/DarkNight-MyAnimeList/master/DarkNightMAL.user.css)
+2. [Install the UserCSS here.](https://raw.githubusercontent.com/cicerakes/DarkNight-MyAnimeList/master/DarkNightMAL.user.css)
 
 ## Preview
 ### Home page (Logged in)
