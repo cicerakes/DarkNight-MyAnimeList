@@ -10,11 +10,8 @@ The override applies the default `Dark Blue` theme found on MAL to users' lists.
 As no modifications have been made to the `Dark Blue` theme, it is possible for some users' lists to appear broken if they have certain customisations, when using this override.
 
 ## Installation
-Install the [Stylus extension](https://add0n.com/stylus.html) to install the UserCSS below.
-
-* [Install the UserCSS here.](https://raw.githubusercontent.com/cicerakes/DarkNight-MyAnimeList/master/DarkNightMAL.user.css)
-* A Userstyle version can also be found [here](https://userstyles.org/styles/120493/dark-night-myanimelist).  
-Note that this version is outdated and not as frequently updated.
+1. Install the [Stylus extension](https://add0n.com/stylus.html) if you haven't already.
+2. [Install the UserCSS found here.](https://raw.githubusercontent.com/cicerakes/DarkNight-MyAnimeList/master/DarkNightMAL.user.css)
 
 ## Preview
 ### Home page (Logged in)
