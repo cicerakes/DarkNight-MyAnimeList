@@ -327,7 +327,7 @@
 		border-color: #3e3e3e;
 	}
 
-	.page-common .btn-form-submit {
+	.page-common .btn-form-submit, .page-common .btn-form-submit:hover {
 		background-color: #3d5dad;
 		color: #fff !important;
 	}
