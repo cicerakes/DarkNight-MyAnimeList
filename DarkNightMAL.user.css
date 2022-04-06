@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name			Dark/Night MyAnimeList
 @namespace		cicerakes
-@version		1.0.13
+@version		1.0.14
 @description	A dark/night theme for myanimelist.net.
 @author			cicerakes
 @license		CC-BY-SA-4.0
@@ -253,7 +253,7 @@
 		border-color: #3e3e3e;
 	}
 
-	body.index .widget .widget-header {
+	body.index .widget-container .widget .widget-header {
 		color: #cecece;
 		border-color: #5e5e5e;
 	}
@@ -262,7 +262,7 @@
 		border-color: #3e3e3e;
 	}
 
-	body.index .widget.my_list_updates .item {
+	body.index .widget-container .widget.my_list_updates .item, body.index .widget-container .widget.friend_list_updates .item, body.index .widget-container .widget.clubs .item, body.index .widget-container .widget.reviews .item {
 		border-color: #3e3e3e;
 	}
 
