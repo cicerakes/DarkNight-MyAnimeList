@@ -30,8 +30,8 @@
 	"Shown": ""
 }
 @var select		wIcon	"Watch episode/PV icons" {
-	"Hidden": ".top-ranking-table .title .icon-watch,.top-ranking-table .title .icon-watch-pv{display:none}.seasonal-anime-list .seasonal-anime .title .icon-watch,.seasonal-anime-list .seasonal-anime .title .icon-watch-pv{display:none}td[class=\"episode-video nowrap\"],td[class=\"episode-video\"]{display:none}.icon-watch,.icon-watch-pv{display:none}.malicon-movie-episode,.malicon-movie-pv{display:none}",
-	"Shown": ""
+	"Hidden": ".top-ranking-table .title .icon-watch,.top-ranking-table .title .icon-watch-pv{display:none}.seasonal-anime-list .seasonal-anime .title .icon-watch,.seasonal-anime-list .seasonal-anime .title .icon-watch-pv{display:none}td[class=\"episode-video nowrap\"],td[class=\"episode-video\"]{display:none}.icon-watch,.icon-watch-pv{display:none}.malicon-movie-episode,.malicon-movie-pv{display:none}a.left-info-block-broadcast-button{display:none}",
+	"Shown": "a.left-info-block-broadcast-button{color:#fff!important}"
 }
 @var select		oUL		"Override users' anime/manga lists" {
 	"No": ".page-common #footer-block{display:none!important}",
