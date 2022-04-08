@@ -3541,6 +3541,10 @@
 		background-color: #121c30;
 	}
 
+	.stacks .stacks-modal .modal_content .modal-list .item.added {
+		background-color: #262626;
+	}
+
 	.stacks .stack-list .item .bar {
 		background-color: #272727;
 		border-color: #272727;
