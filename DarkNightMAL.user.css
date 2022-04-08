@@ -3479,6 +3479,100 @@
 		color: #cecece;
 	}
 
+	/* > New Stack */
+
+	.stacks input.title, .stacks textarea.description {
+		background-color: #262626;
+		border-color: #3e3e3e;
+		color: #cecece;
+	}
+
+	.stacks div.underline {
+		border-color: #3e3e3e;
+	}
+
+	.stacks .two-btn {
+		border-color: #3e3e3e;
+	}
+
+	.stacks .btn.btn-default {
+		background-color: #1e1e1e;
+		color: #5378cb;
+		border-color: #4e4e4e;
+	}
+
+	.stacks .tag.box {
+		background-color: #272727;
+	}
+
+	.stacks .radio input[type=radio]+label:before {
+		background-color: #1e1e1e;
+		border-color: #4e4e4e;
+	}
+
+	.stacks .radio input[type=radio]:checked+label:before {
+		-webkit-box-shadow: inset 0 0 0 3px #1e1e1e;
+		box-shadow: inset 0 0 0 3px #1e1e1e;
+	}
+
+	.stacks .radio.box.on {
+		background-color: #121c30;
+	}
+
+	.stacks .stacks-modal .modal_content {
+		background-color: #1e1e1e;
+		border-color: #3e3e3e;
+	}
+
+	.stacks .stacks-modal .modal_content .head .search-box, .stacks .stacks-modal .modal_content .head .search-box input {
+		background-color: #262626;
+		color: #cecece;
+	}
+
+	.stacks .stacks-modal .modal_content .head {
+		border-color: #5e5e5e;
+	}
+
+	.stacks .stacks-modal .modal_content .modal-list .item {
+		border-color: #3e3e3e;
+	}
+
+	.stacks .stacks-modal .modal_content .modal-list .item.just {
+		background-color: #121c30;
+	}
+
+	.stacks .stack-list .item .bar {
+		background-color: #272727;
+		border-color: #272727;
+	}
+
+	.stacks .stack-list .item.stop .bar {
+		background-color: #1e1e1e;
+		border-color: #3e3e3e;
+	}
+
+	.stacks .stack-list .item .panel {
+		background-color: #272727;
+	}
+
+	.stacks .stack-list .item .panel .list_status .balloon {
+		background-color: #1e1e1e;
+		border-color: #4e4e4e;
+	}
+
+	.stacks .stack-list .item .panel .list_status .balloon:before {
+		border-right-color: #4e4e4e;
+	}
+
+	.stacks .stack-list .item .panel .list_status .balloon:after {
+		border-right-color: #1e1e1e;
+	}
+
+	.stacks .btn.btn-trash {
+		background-color: #1e1e1e;
+		border-color: #4e4e4e;
+	}
+
 	/* The following section of code was done by another user, with minor changes by me. */
 	/* :::::(C)Nightsanity::::: */
 	/*manga & anime search*/
