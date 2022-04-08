@@ -3341,6 +3341,65 @@
 		border-color: #121c30 !important;
 	}
 
+	/* Interest Stacks */
+	.stacks .breadcrumbs_area.underline {
+		border-color: #5e5e5e;
+	}
+
+	.stacks .btn-stack .balloon {
+		background-color: #1e1e1e;
+		border-color: #4e4e4e;
+	}
+
+	.stacks .btn-stack .balloon:before {
+		border-right-color: #4e4e4e;
+	}
+
+	.stacks .btn-stack .balloon:after {
+		border-right-color: #1e1e1e;
+	}
+
+	.stacks h3.underline {
+		border-color: #5e5e5e;
+	}
+
+	.stacks .recent-list .column-item, .stacks .side-list .column-item {
+		border-color: #454545;
+	}
+
+	.stacks .content-left {
+		border-color: #404040;
+	}
+
+	.stacks .search-side form input {
+		background-color: #262626;
+		border-color: #3e3e3e;
+		color: #cecece;
+	}
+
+	.stacks .search-side form button {
+		background-color: #121c30;
+		border-color: #3e3e3e;
+	}
+
+	.stacks .search-side form button:hover {
+		background-color: #192743;
+	}
+
+	.stacks .search-side .quick-search a {
+		background-color: #333333;
+		border-color: #3e3e3e;
+	}
+
+	.stacks .new-stack-block {
+		background-color: #1e1e1e;
+		border-color: #3e3e3e;
+	}
+
+	.stacks .new-stack-block .new-stack-item:hover {
+		background-color: #262626;
+	}
+
 	/* The following section of code was done by another user, with minor changes by me. */
 	/* :::::(C)Nightsanity::::: */
 	/*manga & anime search*/

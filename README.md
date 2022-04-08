@@ -38,10 +38,13 @@ The table below has suggestions, which may be ignored in some cases such as due 
 | #f9f9f9 | #242424 | Background |
 | #f7f7f7 | #262626 | Background |
 | #f6f6f6 | #272727 | Background |
+| #f0f0f0 | #333333 | Background |
+| #f0f0f0 | #454545 | Border |
 | #efefef | #2e2e2e | Background |
 | #ebebeb | #3e3e3e | Border |
 | #e1e7f5 | #121c30 | Background |
 | #d8d8d8 | #3e3e3e | Border |
+| #ced8ef | #192743 | Background |
 | #bebebe | #5e5e5e | Border |
 | #585858 | #9e9e9e | Text |
 | #4f74c8 | #2d467f | Background |
