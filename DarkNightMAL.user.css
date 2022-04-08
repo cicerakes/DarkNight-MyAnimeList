@@ -154,7 +154,7 @@
 	}
 
 	.page-common a, .page-common a:visited, .page-common a:hover, .page-common .goodresult a:link, .page-common .goodresult a:active, .page-common .goodresult a:visited {
-		color: #5378cb !important;
+		color: #5378cb;
 	}
 
 	.page-common .inputtext {
