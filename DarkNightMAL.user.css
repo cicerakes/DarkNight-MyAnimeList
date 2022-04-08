@@ -428,6 +428,20 @@
 		box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.4);
 	}
 
+	.view-style2 a {
+		border-color: #3d5dad;
+		color: #3d5dad;
+	}
+
+	.view-style2 a.on {
+		background-color: #3d5dad;
+	}
+
+	.view-style2 a:hover {
+		background-color: #121c30;
+		color: #3d5dad;
+	}
+
 	/* > List nav */
 
 	.page-common .header-list-button {
@@ -3358,6 +3372,7 @@
 	}
 
 	/* Interest Stacks */
+
 	.stacks .breadcrumbs_area.underline {
 		border-color: #5e5e5e;
 	}
@@ -3414,6 +3429,54 @@
 
 	.stacks .new-stack-block .new-stack-item:hover {
 		background-color: #262626;
+	}
+
+	/* > View Interest Stack */
+
+	.stacks .info-block {
+		background-color: #272727;
+	}
+
+	.stacks .introduction {
+		border-color: #5e5e5e;
+		color: #cecece;
+	}
+
+	.stacks .btn-report .report-block {
+		background-color: #1e1e1e;
+		border-color: #3e3e3e;
+	}
+
+	.stacks .any_status strong {
+		color: #cecece;
+	}
+
+	.stacks .any_status .score {
+		background-color: #272727;
+	}
+
+	.stacks .any_status .score .graph.watching, .stacks .any_status .score .graph.reading {
+		background-color: #50c35b;
+	}
+
+	.stacks .any_status .score .graph.completed {
+		background-color: #3d5dad;
+	}
+
+	.stacks .any_status .score .graph.dropped {
+		background-color: #ba4b4d;
+	}
+
+	.stacks .list-anime-list .seasonal-anime .head {
+		background-color: #242424;
+	}
+
+	.stacks .list-anime-list .seasonal-anime .info {
+		background-color: #2e2e2e;
+	}
+
+	.stacks .list-anime-list .seasonal-anime .intro {
+		color: #cecece;
 	}
 
 	/* The following section of code was done by another user, with minor changes by me. */
