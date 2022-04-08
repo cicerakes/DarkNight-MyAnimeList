@@ -963,6 +963,10 @@
 		color: #fff !important;
 	}
 
+	.page-common .bg-color-base5 {
+		background-color: #272727;
+	}
+
 	/*[[wIcon]]*/
 
 	/* > Status Buttons */
