@@ -1947,10 +1947,6 @@
 		color: #fff !important;
 	}
 
-	.page-common .icon-social-login.connect {
-		color: #fff !important;
-	}
-
 	/* > List Style */
 
 	.ownlist_style .style-setting .setting-switch input[type="radio"]+label {
@@ -2076,6 +2072,26 @@
 
 	.notification_settings .notification-setting-content .settings-notification .setting td.button.off input[type=checkbox]+label::after {
 		background-color: #4e4e4e;
+	}
+
+	/* > Account */
+
+	body.page_account_setting .info-container.bordered {
+		border-color: #454545;
+	}
+
+	/* >> 2FA */
+
+	body.mfaconfig .info-container.bordered {
+		border-color: #454545;
+	}
+
+	body.mfaconfig .panel, body.mfaconfig .panel .panel-body {
+		border-color: #434343;
+	}
+
+	body.mfaconfig .panel .panel-heading {
+		background-color: #333333;
 	}
 
 	/* Forums */
