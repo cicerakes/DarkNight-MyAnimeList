@@ -3577,6 +3577,31 @@
 		border-color: #4e4e4e;
 	}
 
+	/* > My Interest Stacks */
+
+	.stacks .tab-area {
+		border-color: #3e3e3e;
+	}
+
+	.stacks .tab-area ul li {
+		background-color: #121c30;
+	}
+
+	.stacks .my-list thead td {
+		background-color: #272727;
+		border-color: #3e3e3e;
+	}
+
+	.stacks .my-list tbody td {
+		border-color: #3e3e3e;
+	}
+
+	.stacks .my-list tbody td .btn_edit {
+		background-color: #1e1e1e;
+		color: #5378cb;
+		border-color: #4e4e4e;
+	}
+
 	/* The following section of code was done by another user, with minor changes by me. */
 	/* :::::(C)Nightsanity::::: */
 	/*manga & anime search*/
