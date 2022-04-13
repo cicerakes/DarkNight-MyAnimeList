@@ -1454,6 +1454,18 @@
 		color: #fff !important;
 	}
 
+	.oped-preview-button {
+		filter: invert(80%);
+	}
+
+	.oped-preview-button-gray {
+		filter: invert(80%) opacity(9%);
+	}
+
+	.oped-video-button .malicon.malicon-movie-mv {
+		color: #3d5dad;
+	}
+
 	/* > Manga Store */
 
 	a.left-info-block-manga-store-button {
