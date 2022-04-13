@@ -68,6 +68,10 @@
 
 	/*[[bBF]]*/
 
+	body.index .widget-container .widget .index_h2_seo a {
+		color: #cecece;
+	}
+
 	.page-common #footer-block {
 		background-color: #3d5dad;
 	}
