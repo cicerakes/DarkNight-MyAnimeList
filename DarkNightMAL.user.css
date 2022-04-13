@@ -3335,8 +3335,8 @@
 		color: #fff !important;
 	}
 
-	.title-wrap a.title, .title {
-		color: #cecece !important;
+	.title-wrap a.title {
+		color: #cecece;
 	}
 
 	.volume a, .volume a:hover {
