@@ -3360,6 +3360,10 @@
 		background-color: #cecece;
 	}
 
+	#widget-manga-store .widget-slide .btn-anime .link {
+		border-color: #3e3e3e;
+	}
+
 	/* > Search */
 
 	.manga-store .manga-store-search-form-search .inputButton {
