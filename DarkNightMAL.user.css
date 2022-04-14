@@ -1466,6 +1466,12 @@
 		color: #3d5dad;
 	}
 
+	.msg-frame {
+		background-color: #121c30;
+		color: #cecece;
+		border-color: #3d5dad;
+	}
+
 	/* > Manga Store */
 
 	a.left-info-block-manga-store-button {
