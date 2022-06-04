@@ -3601,11 +3601,11 @@
 
 	/* > View Interest Stack */
 
-	.stacks .info-block {
+	.stacks .stacks-detail .info-block {
 		background-color: #272727;
 	}
 
-	.stacks .introduction {
+	.stacks .stacks-detail .introduction {
 		border-color: #5e5e5e;
 		color: #cecece;
 	}
@@ -3615,36 +3615,48 @@
 		border-color: #3e3e3e;
 	}
 
-	.stacks .any_status strong {
+	.stacks .stacks-detail .any_status {
+		background-color: #1e1e1e;
+	}
+
+	.stacks .stacks-detail .any_status strong {
 		color: #cecece;
 	}
 
-	.stacks .any_status .score {
+	.stacks .stacks-detail .any_status .score {
 		background-color: #272727;
 	}
 
-	.stacks .any_status .score .graph.watching, .stacks .any_status .score .graph.reading {
+	.stacks .stacks-detail .any_status .score .graph.watching, .stacks .any_status .score .graph.reading {
 		background-color: #50c35b;
 	}
 
-	.stacks .any_status .score .graph.completed {
+	.stacks .stacks-detail .any_status .score .graph.completed {
 		background-color: #3d5dad;
 	}
 
-	.stacks .any_status .score .graph.dropped {
+	.stacks .stacks-detail .any_status .score .graph.dropped {
 		background-color: #ba4b4d;
 	}
 
-	.stacks .list-anime-list .seasonal-anime .head {
+	.stacks .stacks-detail .list-anime-list .seasonal-anime .head {
 		background-color: #242424;
 	}
 
-	.stacks .list-anime-list .seasonal-anime .info {
+	.stacks .stacks-detail .list-anime-list .seasonal-anime .info {
 		background-color: #2e2e2e;
 	}
 
-	.stacks .list-anime-list .seasonal-anime .intro {
+	.stacks .stacks-detail .list-anime-list .seasonal-anime .intro {
 		color: #cecece;
+	}
+
+	.stacks .stacks-detail h2.title, .stacks .stacks-detail .tag {
+		background-color: #1e1e1e;
+	}
+
+	.tile-anime-list .seasonal-anime .image {
+		background-color: #2e2e2e;
 	}
 
 	/* > New Stack */
@@ -3743,6 +3755,16 @@
 	.stacks .btn.btn-trash {
 		background-color: #1e1e1e;
 		border-color: #4e4e4e;
+	}
+
+	.stacks .sticky-toolbar {
+		background-color: #1e1e1e;
+		border-color: #3e3e3e;
+	}
+
+	.stacks .btn.btn-top {
+		background-color: #1e1e1e;
+		color: #5378cb;
 	}
 
 	/* > My Interest Stacks */
