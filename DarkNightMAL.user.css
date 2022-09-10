@@ -1731,6 +1731,65 @@
 		border-color: #3e3e3e !important;
 	}
 
+	.review-element {
+		background-color: #1e1e1e;
+	}
+
+	.review-element .thumbbody {
+		border-bottom-color: #2d2d2d;
+	}
+
+	.review-element .thumbbody .body .text {
+		color: #cecece;
+	}
+
+	.review-element .thumbbody .body .tags .tag {
+		background-color: #2d2d2d;
+		border-color: #2d2d2d;
+	}
+
+	.review-element .thumbbody .body .tags .tag.recommended {
+		color: #5378cb;
+	}
+
+	.review-element .thumbbody .body .tags .tag.not-recommended {
+		color: #ba4b4d;
+	}
+
+	.review-element .thumbbody .body .rating {
+		color: #9c9c9c;
+	}
+
+	.review-element .thumbbody .thumb img, .review-element .thumbbody .thumb-right img {
+		border-color: #5e5e5e;
+	}
+
+	.review-element .thumbbody .body .reaction-box {
+		background-color: #272727;
+	}
+
+	.review-element .thumbbody .body .reaction-box .btn-reaction {
+		background-color: #1e1e1e;
+		border-color: #3e3e3e;
+	}
+
+	.review-element .thumbbody .body .reaction-box .btn-reaction:hover {
+		background-color: #121c30;
+	}
+
+	.review-element .thumbbody .body .bottom-navi .readmore a:hover, .review-element .thumbbody .body .bottom-navi .showless a:hover, .review-element .thumbbody .body .bottom-navi .open a:hover {
+		color: #5378cb;
+	}
+
+	.review-element .thumbbody .body .bottom-navi .menu a.btn-popup:hover {
+		color: #5378cb;
+	}
+
+	.review-element .thumbbody .body .bottom-navi .menu .menu-block {
+		background-color: #1e1e1e;
+		border-color: #3e3e3e;
+	}
+
 	/* Add/Edit detailed info */
 
 	#fancybox-outer {
