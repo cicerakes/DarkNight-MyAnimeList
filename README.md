@@ -38,7 +38,7 @@ The table below has suggestions, which may be ignored in some cases such as due 
 | #f9f9f9 | #242424 | Background |
 | #f7f7f7 | #262626 | Background |
 | #f6f6f6 | #272727 | Background |
-| #f0f0f0 | #333333 | Background |
+| #f0f0f0 | #2d2d2d | Background |
 | #f0f0f0 | #454545 | Border |
 | #efefef | #2e2e2e | Background |
 | #ebebeb | #3e3e3e | Border |
@@ -47,6 +47,7 @@ The table below has suggestions, which may be ignored in some cases such as due 
 | #ced8ef | #192743 | Background |
 | #c4c4c4 | #4e4e4e | Border |
 | #bebebe | #5e5e5e | Border |
+| #a12f31 | #ba4b4d | Text |
 | #585858 | #9e9e9e | Text |
 | #4f74c8 | #2d467f | Background |
 | #2e51a2 | #3d5dad | Background |
