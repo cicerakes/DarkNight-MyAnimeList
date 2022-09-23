@@ -1756,6 +1756,12 @@
 		color: #ba4b4d;
 	}
 
+	.review-element .thumbbody .body .tags .tag.preliminary {
+		background-color: #1e1e1e;
+		border-color: #1e1e1e;
+		color: #50c35b;
+	}
+
 	.review-element .thumbbody .body .rating {
 		color: #9c9c9c;
 	}
