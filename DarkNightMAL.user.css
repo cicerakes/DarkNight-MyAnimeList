@@ -1009,6 +1009,14 @@
 		border-color: #3e3e3e;
 	}
 
+	.profile .mymenu .btn-new-stack {
+		color: #5378cb;
+	}
+
+	.profile .mymenu .btn-new-stack.on {
+		background-color: #3e3e3e;
+	}
+
 	/* Blogs */
 	.page-rwd.page-blog-detail #content {
 		color: #cecece;
@@ -3683,6 +3691,14 @@
 
 	.stacks .new-stack-block .new-stack-item:hover {
 		background-color: #262626;
+	}
+
+	.stacks .btn-new-stack {
+		color: #5378cb;
+	}
+
+	.stacks .btn-new-stack.on {
+		background-color: #3e3e3e;
 	}
 
 	/* > View Interest Stack */
