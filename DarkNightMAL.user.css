@@ -315,10 +315,6 @@
 		background-color: #3d5dad;
 	}
 
-	body.index .widget-container .widget.friend_list_updates.left .wrok-graph-inner.on-hold {
-		background-color: #f9d457;
-	}
-
 	body.index .widget-container .widget.friend_list_updates.left .wrok-graph-inner.dropped  {
 		background-color: #ba4b4d;
 	}
@@ -329,10 +325,6 @@
 
 	body.index .widget-container .widget.friend_list_updates.left .work-status-num.completed {
 		color: #3d5dad;
-	}
-
-	body.index .widget-container .widget.friend_list_updates.left .work-status-num.on-hold {
-		color: #f9d457;
 	}
 
 	body.index .widget-container .widget.friend_list_updates.left .work-status-num.dropped {
@@ -1185,10 +1177,6 @@
 		background-color: #3d5dad;
 	}
 
-	.history_content_wrapper .history-updates .wrok-graph-inner.on_hold {
-		background-color: #f9d457;
-	}
-
 	.history_content_wrapper .history-updates .wrok-graph-inner.dropped {
 		background-color: #ba4b4d;
 	}
@@ -1199,10 +1187,6 @@
 
 	.history_content_wrapper .history-updates .work-status-num.completed {
 		color: #3d5dad;
-	}
-
-	.history_content_wrapper .history-updates .work-status-num.on_hold {
-		color: #f9d457;
 	}
 
 	.history_content_wrapper .history-updates .work-status-num.dropped {
