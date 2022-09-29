@@ -1142,6 +1142,73 @@
 		background-color: #3e3e3e;
 	}
 
+	/* > History */
+
+	.history_content_wrapper .history-updates .item:not(:last-child) .body {
+		border-color: #444;
+	}
+
+	.history_content_wrapper .history-updates .navi-btn:hover {
+		color: #5378cb;
+	}
+
+	.history_content_wrapper .history-updates .navi-btn.sent {
+		color: #50c35b;
+	}
+
+	.history_content_wrapper .history-updates .image {
+		border-color: #454545;
+	}
+
+	.history_content_wrapper .history-updates .notes {
+		background-color: #272727;
+	}
+
+	.history_content_wrapper .history-updates .notes-btn:hover {
+		color: #5378cb;
+	}
+
+	.history_content_wrapper .history-updates .friend-image {
+		border-color: #454545;
+	}
+
+	.history_content_wrapper .history-updates .work-graph {
+		background-color: #252525;
+		border-color: #454545;
+	}
+
+	.history_content_wrapper .history-updates .wrok-graph-inner.watching, .history_content_wrapper .history-updates .wrok-graph-inner.reading {
+		background-color: #50c35b;
+	}
+
+	.history_content_wrapper .history-updates .wrok-graph-inner.completed {
+		background-color: #3d5dad;
+	}
+
+	.history_content_wrapper .history-updates .wrok-graph-inner.on_hold {
+		background-color: #f9d457;
+	}
+
+	.history_content_wrapper .history-updates .wrok-graph-inner.dropped {
+		background-color: #ba4b4d;
+	}
+
+	.history_content_wrapper .history-updates .work-status-num.watching, .history_content_wrapper .history-updates .work-status-num.reading {
+		color: #50c35b;
+	}
+
+	.history_content_wrapper .history-updates .work-status-num.completed {
+		color: #3d5dad;
+	}
+
+	.history_content_wrapper .history-updates .work-status-num.on_hold {
+		color: #f9d457;
+	}
+
+	.history_content_wrapper .history-updates .work-status-num.dropped {
+		color: #ba4b4d;
+	}
+
 	/* Blogs */
 	.page-rwd.page-blog-detail #content {
 		color: #cecece;
