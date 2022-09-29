@@ -2144,6 +2144,10 @@
 		color: #5378cb;
 	}
 
+	.page-common .login-selectbox {
+		background-color: #1e1e1e !important;
+	}
+
 	/* Seasonal Anime */
 
 	.seasonal-anime-list .anime-header {
