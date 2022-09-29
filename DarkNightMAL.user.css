@@ -1774,6 +1774,12 @@
 		color: #50c35b;
 	}
 
+	.review-element .thumbbody .body .tags .tag.spoiler {
+		background-color: #1e1e1e;
+		border-color: #1e1e1e;
+		color: #f3474a
+	}
+
 	.review-element .thumbbody .body .rating {
 		color: #9c9c9c;
 	}
