@@ -1263,6 +1263,10 @@
 		background-color: #272727;
 	}
 
+	.top-ranking-table .title .link {
+		color: #6e6e6e;
+	}
+
 	/*[[wIcon]]*/
 
 	/* > Status Buttons */
