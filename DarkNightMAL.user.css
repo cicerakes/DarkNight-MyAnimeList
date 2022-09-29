@@ -1193,6 +1193,12 @@
 		color: #ba4b4d;
 	}
 
+	/* > Friends */
+
+	.profile .boxlist-container .boxlist .image {
+		border-color: #454545;
+	}
+
 	/* Blogs */
 	.page-rwd.page-blog-detail #content {
 		color: #cecece;
