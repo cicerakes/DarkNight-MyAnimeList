@@ -42,6 +42,7 @@ The table below has suggestions, which may be ignored in some cases such as due 
 | #f0f0f0 | #454545 | Border |
 | #efefef | #2e2e2e | Background |
 | #ebebeb | #3e3e3e | Border |
+| #e5e5e5 | #444444 | Border |
 | #e1e7f5 | #121c30 | Background |
 | #d8d8d8 | #3e3e3e | Border |
 | #ced8ef | #192743 | Background |

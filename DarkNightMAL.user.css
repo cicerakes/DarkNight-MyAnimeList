@@ -270,12 +270,137 @@
 		border-color: #3e3e3e;
 	}
 
-	body.index .widget.friend_list_updates .item {
+	body.index .widget.clubs .item {
 		border-color: #3e3e3e;
 	}
 
-	body.index .widget.clubs .item {
+	body.index .widget-container .widget.friend_list_updates.left .item:not(:last-child) .body, body.index .widget-container .widget.friend_list_updates.right .item:not(:last-child) {
+		border-color: #444;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .image  {
+		border-color: #454545;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .notes {
+		background-color: #272727;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .notes-btn:hover {
+		color: #5378cb;
+	}
+
+	body.index .widget-container .widget.friend_list_updates.left .friend-image {
+		border-color: #454545;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .navi-btn:hover {
+		color: #5378cb;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .navi-btn.sent {
+		color: #50c35b;
+	}
+
+	body.index .widget-container .widget.friend_list_updates.left .work-graph {
+		background-color: #252525;
+		border-color: #454545;
+	}
+
+	body.index .widget-container .widget.friend_list_updates.left .wrok-graph-inner.watching, body.index .widget-container .widget.friend_list_updates.left .wrok-graph-inner.reading {
+		background-color: #50c35b;
+	}
+
+	body.index .widget-container .widget.friend_list_updates.left .wrok-graph-inner.completed {
+		background-color: #3d5dad;
+	}
+
+	body.index .widget-container .widget.friend_list_updates.left .wrok-graph-inner.on-hold {
+		background-color: #f9d457;
+	}
+
+	body.index .widget-container .widget.friend_list_updates.left .wrok-graph-inner.dropped  {
+		background-color: #ba4b4d;
+	}
+
+	body.index .widget-container .widget.friend_list_updates.left .work-status-num.watching, body.index .widget-container .widget.friend_list_updates.left .work-status-num.reading {
+		color: #50c35b;
+	}
+
+	body.index .widget-container .widget.friend_list_updates.left .work-status-num.completed {
+		color: #3d5dad;
+	}
+
+	body.index .widget-container .widget.friend_list_updates.left .work-status-num.on-hold {
+		color: #f9d457;
+	}
+
+	body.index .widget-container .widget.friend_list_updates.left .work-status-num.dropped {
+		color: #ba4b4d;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .footer {
+		border-color: #444;
+		background-color: #272727;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .footer .btn-settings, body.index .widget-container .widget.friend_list_updates .footer .link-more {
+		color: #5378cb;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .footer .dialog-settings {
+		background-color: #1e1e1e;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .footer .dialog-settings table th, body.index .widget-container .widget.friend_list_updates .footer .dialog-settings table td {
+		border-color: #5e5e5e;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .footer .dialog-settings table th {
+		background-color: #2d2d2d;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .footer .dialog-settings .switch input[type=checkbox]+label {
+		border-color: #3d5dad;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .footer .dialog-settings .switch input[type=checkbox]:checked+label {
+		background-color: #121c30;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .footer .dialog-settings .switch input[type=checkbox]+label:before {
+		color: #3d5dad;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .footer .dialog-settings .switch input[type=checkbox]+label:after {
+		background-color: #3d5dad;
+	}
+
+	body.index .widget-container .widget.friend_list_updates .footer .dialog-settings .close-btn {
+		background-color: #1e1e1e;
 		border-color: #3e3e3e;
+		color: #5378cb;
+	}
+
+	.mal-modal .mal-modal-dialog .mal-modal-content {
+		background-color: #1e1e1e;
+		color: #cecece;
+	}
+
+	.mal-modal .mal-modal-dialog .mal-modal-content .mal-modal-header {
+		border-bottom-color: #3e3e3e;
+	}
+
+	.mal-modal .mal-modal-dialog .mal-modal-content button.btn-close {
+		filter: invert(1);
+	}
+
+	.mal-modal .mal-modal-dialog .mal-modal-content .mal-modal-body .modal-profile-comment-quote {
+		background-color: #272727;
+	}
+
+	.mal-modal .mal-modal-dialog .mal-modal-content .mal-modal-body .modal-profile-comment-form {
+		background-color: #272727;
 	}
 
 	.ranking-digest {
